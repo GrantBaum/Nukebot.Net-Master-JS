@@ -18,7 +18,7 @@ const presser = String.raw`
 ╚═╝░░╚══╝░╚═════╝░╚═╝░░╚═╝╚══════╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚══════╝░░░╚═╝░░░                         
                                                             
                                                                       
-                                        Author: Grant not Teddy
+                                        Author: GrantBaum
 `;
 
 console.log(red(presser));
