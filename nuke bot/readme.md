@@ -1,0 +1,1 @@
+in settings.json you can change the prefix and stuff if you want
